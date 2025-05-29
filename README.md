@@ -1,5 +1,5 @@
 # Timer 8 bit with Compare and Pwm on FPGA kit de 2
-# Please download Timer 8 bit with Compare and Pwm.pdf to see verification plan
+# Please download verification plan and Báo cáo đồ án 1.pdf to see more information
 Project Title: 8-bit Timer IP Design.
 Author: Thái Trung Kiên .
 Language: Verilog.
